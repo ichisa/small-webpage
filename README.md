@@ -2,13 +2,17 @@
 
 Here is the info of our R-Ladies chapter
 
-<p aling="center">
+<p align="center">
 
 ![](figures/R-LadiesGlobal.png)
 
 </p>
 
-# Next Events
+# Past Events
+
+[2021-01-12](https://github.com/ichisa/small-webpage/blob/main/event-2021-01-12.md)
+
+
 
 
 
